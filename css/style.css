@@ -1,70 +1,70 @@
 * {
-	box-sizing: border-box;
-	font-family: Comic Sans MS, Comic Sans;
+  box-sizing: border-box;
+  font-family: Comic Sans MS, Comic Sans;
 }
 #title {
-	text-align: center;
+  text-align: center;
   margin-top: 50px;
-	margin-bottom: 50px;
+  margin-bottom: 50px;
   font-size: 175%;
   font-weight: bold;
 }
 .row {
-	width: 100%;
+  width: 100%;
 }
 p {
   overflow: auto;
-	border: 1px solid black;
-	width: 90%;
-	height: 140px;
-	margin-right: auto;
+  border: 1px solid black;
+  width: 90%;
+  height: 140px;
+  margin-right: auto;
   margin-left: auto;
-	padding-top: 35px;
-	padding-left: 10px;
+  padding-top: 35px;
+  padding-left: 10px;
   padding-right: 10px;
-	position: relative;
-	background-color: gray;
-	text-align: left;
+  position: relative;
+  background-color: gray;
+  text-align: left;
   color: black;
 }
 #menu1 {
-	border: 1px solid black;
-	width: 25%;
-	height: 32px;
-	font: 125%;
-	background-color: mediumspringgreen;
-	text-align: center;
-	padding-top: 3px;
-	position: absolute;
-	top: -1px;
-	right: 0px;
+  border: 1px solid black;
+  width: 25%;
+  height: 32px;
+  font: 125%;
+  background-color: mediumspringgreen;
+  text-align: center;
+  padding-top: 3px;
+  position: absolute;
+  top: -1px;
+  right: 0px;
   font-weight: bold;
 }
 #menu2 {
-	border: 1px solid black;
-	width: 25%;
-	height: 32px;
-	font: 125%;
-	background-color: lightskyblue;
-	text-align: center;
-	padding-top: 3px;
-	position: absolute;
-	top: -1px;
-	right: 0px;
+  border: 1px solid black;
+  width: 25%;
+  height: 32px;
+  font: 125%;
+  background-color: lightskyblue;
+  text-align: center;
+  padding-top: 3px;
+  position: absolute;
+  top: -1px;
+  right: 0px;
   font-weight: bold;
 }
 
 #menu3 {
-	border: 1px solid black;
-	width: 25%;
-	height: 32px;
-	font: 125%;
-	background-color: tomato;
-	text-align: center;
-	padding-top: 3px;
-	position: absolute;
-	top: -1px;
-	right: 0px;
+  border: 1px solid black;
+  width: 25%;
+  height: 32px;
+  font: 125%;
+  background-color: tomato;
+  text-align: center;
+  padding-top: 3px;
+  position: absolute;
+  top: -1px;
+  right: 0px;
   font-weight: bold;
 }
 @media (min-width: 992px) {
